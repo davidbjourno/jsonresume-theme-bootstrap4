@@ -1,14 +1,15 @@
 {
-  "name": "jsonresume-theme-boilerplate",
-  "version": "0.1.2",
-  "description": "Boilerplate theme for JSON Resume",
-  "author": "Mattias Erming",
+  "name": "jsonresume-theme-bootstrap4",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 theme for JSON Resume",
+  "author": "David Blood",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erming/jsonresume-theme-boilerplate"
+    "url": "https://github.com/davidbjourno/jsonresume-theme-bootstrap4.git"
   },
   "license": "MIT",
   "dependencies": {
+    "bootstrap": "^4.0.0-alpha.2",
     "handlebars": "^2.0.0-alpha.4"
   }
 }
